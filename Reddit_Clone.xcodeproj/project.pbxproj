@@ -10,7 +10,6 @@
 		0A1BF62E26299AC9003C391E /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1BF62D26299AC9003C391E /* Date.swift */; };
 		0A9B9D222625CAE0009F0305 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9B9D212625CAE0009F0305 /* AppDelegate.swift */; };
 		0A9B9D242625CAE0009F0305 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9B9D232625CAE0009F0305 /* SceneDelegate.swift */; };
-		0A9B9D262625CAE0009F0305 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9B9D252625CAE0009F0305 /* ViewController.swift */; };
 		0A9B9D2B2625CAE4009F0305 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A9B9D2A2625CAE4009F0305 /* Assets.xcassets */; };
 		0A9B9D2E2625CAE4009F0305 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A9B9D2C2625CAE4009F0305 /* LaunchScreen.storyboard */; };
 		0AE5AE5126285437009C4BB7 /* HomeBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE5AE5026285437009C4BB7 /* HomeBuilder.swift */; };
@@ -32,7 +31,6 @@
 		0A9B9D1E2625CAE0009F0305 /* Reddit_Clone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Reddit_Clone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A9B9D212625CAE0009F0305 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0A9B9D232625CAE0009F0305 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		0A9B9D252625CAE0009F0305 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0A9B9D2A2625CAE4009F0305 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A9B9D2D2625CAE4009F0305 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0A9B9D2F2625CAE4009F0305 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -87,7 +85,6 @@
 				0AE5AE4E2628541A009C4BB7 /* Home */,
 				0A9B9D212625CAE0009F0305 /* AppDelegate.swift */,
 				0A9B9D232625CAE0009F0305 /* SceneDelegate.swift */,
-				0A9B9D252625CAE0009F0305 /* ViewController.swift */,
 				0A9B9D2A2625CAE4009F0305 /* Assets.xcassets */,
 				0A9B9D2C2625CAE4009F0305 /* LaunchScreen.storyboard */,
 				0A9B9D2F2625CAE4009F0305 /* Info.plist */,
@@ -222,7 +219,6 @@
 				0AE892E92628E3A200A71D65 /* URL.swift in Sources */,
 				0AE5AE63262854CB009C4BB7 /* HomeCell.swift in Sources */,
 				0AE5AE5126285437009C4BB7 /* HomeBuilder.swift in Sources */,
-				0A9B9D262625CAE0009F0305 /* ViewController.swift in Sources */,
 				0AE5AE5826285444009C4BB7 /* HomeVM.swift in Sources */,
 				0AE892E32628DC0900A71D65 /* UIColor.swift in Sources */,
 				0A9B9D222625CAE0009F0305 /* AppDelegate.swift in Sources */,
